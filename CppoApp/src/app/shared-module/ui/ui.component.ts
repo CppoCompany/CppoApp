@@ -3,8 +3,6 @@ import { Component } from '@angular/core';
 @Component({
   selector: 'app-ui',
   templateUrl: './ui.component.html',
-  styleUrls: ['./ui.component.css']
+  styleUrls: ['./ui.component.css'],
 })
-export class UIComponent {
-
-}
+export class UIComponent {}
